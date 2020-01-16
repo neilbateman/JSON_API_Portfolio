@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+http://my-app-20200115192551-hostingbucket-dev.s3-website-us-west-2.amazonaws.com/work
 
 ### `npm start`
 
